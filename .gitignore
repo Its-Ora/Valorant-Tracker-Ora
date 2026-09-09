@@ -36,3 +36,4 @@ desktop.ini
 # Version parallèle livrée par Claude (v4) : à garder en local, pas dans le dépôt.
 # Si tu veux la publier un jour, fusionne-la d'abord avec ta version.
 Claude outputs/
+config.example.json
