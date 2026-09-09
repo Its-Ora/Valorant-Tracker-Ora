@@ -1,0 +1,15 @@
+{
+  "_lisez_moi": "Copie ce fichier en config.json et garde uniquement les lignes que tu veux changer. Toute constante en MAJUSCULES du haut de server.py est surchargeable ici.",
+
+  "WEB_PORT": 8080,
+  "REQUIRE_AUTH": true,
+
+  "STATS_MATCHES": 5,
+  "STATS_TTL": 900,
+  "RESPECT_STREAMER_MODE": false,
+
+  "_region": "Décommente si la détection automatique échoue : eu / na / ap / kr / br / latam",
+  "_FORCE_REGION": ["eu", "eu"],
+
+  "LANG": "fr-FR"
+}

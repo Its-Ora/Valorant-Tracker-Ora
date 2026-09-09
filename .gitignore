@@ -1,0 +1,38 @@
+# ── Données personnelles — ne DOIVENT jamais partir sur GitHub ──
+# Le journal contient les Riot ID de tous les joueurs croisés.
+seen_players.json
+known_names.json
+notes.json
+flags.json
+matches_cache.json
+
+tracker_config.json
+tracker.log
+tracker.log.1
+tracker.lock
+*.corrompu-*
+*.tmp
+*.bak
+*.bak-*
+
+# ── Python / build ──
+__pycache__/
+*.py[cod]
+build/
+dist/
+server.build/
+server.dist/
+*.spec
+.venv/
+venv/
+
+# ── Systèmes / éditeurs ──
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Version parallèle livrée par Claude (v4) : à garder en local, pas dans le dépôt.
+# Si tu veux la publier un jour, fusionne-la d'abord avec ta version.
+Claude outputs/
