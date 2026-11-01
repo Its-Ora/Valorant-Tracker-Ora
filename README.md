@@ -1,5 +1,8 @@
 # Tracker By Eaurah
 
+> [!IMPORTANT]
+> **Projet archivé.** Après avoir cherché, je suis tombé sur [Valorant Scout](https://github.com/kryotrades/Valorant-Scout), qui fait sensiblement la même chose, en mieux. Je ne maintiens plus ce tracker : va plutôt voir celui-là.
+
 Un tracker VALORANT qui tourne sur ton PC et que tu ouvres où tu veux : sur l'écran, ou sur ton
 téléphone posé à côté du clavier. Tu le lances, la fenêtre s'ouvre toute seule, et tu vois les
 rangs et les stats de tout le monde dès la sélection d'agents.
